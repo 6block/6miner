@@ -1,10 +1,10 @@
 # 6miner
 
-6miner is a highly optimized cryptocurrency miner that runs on modern AMD / NVIDIA GPUs and CPU. 
+6miner is a highly optimized cryptocurrency miner that runs on modern AMD / NVIDIA GPUs and CPUs. 
 * 6miner currently supports [handshake](https://handshake.org/)(blake2b + sha3) algorithm with 3% of devfee.
 
 ## Quick start
-* Download and extract 6miner into a folder.
+* [Download](https://github.com/6block/6miner/releases/latest) and extract 6miner into a folder.
 * Depending on the coins that you want to mine, find the corresponding script in the folder.(e.g `mine_hns.sh`).
 * Change the address and vendor information in the script.
 * Run the script and Enjoy mining.
