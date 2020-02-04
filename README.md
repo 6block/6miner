@@ -5,7 +5,7 @@
 
 ## Quick start
 * [Download](https://github.com/6block/6miner/releases/latest) and extract 6miner into a folder.
-* Depending on the coins that you want to mine, find the corresponding script in the folder.(e.g `mine_hns.sh`).
+* Depending on the coins that you want to mine, find the corresponding script in the folder.(e.g `mine_hns.sh`, `mine_hns.b at`).
 * Change the address and vendor information in the script.
 * Run the script and Enjoy mining.
 
@@ -15,7 +15,7 @@
 | handshake(blake2b + sha3) | 2080Ti | 340MH/s |
 | handshake(blake2b + sha3) | 2060 | 155MH/s |
 | handshake(blake2b + sha3) | RX 580 | 64MH/s |
-| handshake(blake2b + sha3) | P100 | 84MH/s |
+| handshake(blake2b + sha3) | P100 | 93MH/s |
 
 
 ## Command line options
