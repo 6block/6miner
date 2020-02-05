@@ -12,8 +12,8 @@
 ## Reference performances
 | algorithm | card | hashrate | 
 | --- | --- | --- |
-| handshake(blake2b + sha3) | 2080Ti | 340MH/s |
-| handshake(blake2b + sha3) | 2060 | 155MH/s |
+| handshake(blake2b + sha3) | 2080Ti | 460MH/s |
+| handshake(blake2b + sha3) | 2060 | 185MH/s |
 | handshake(blake2b + sha3) | RX 580 | 64MH/s |
 | handshake(blake2b + sha3) | P100 | 93MH/s |
 
