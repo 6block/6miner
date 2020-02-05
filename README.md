@@ -16,6 +16,7 @@
 | handshake(blake2b + sha3) | 1080 Ti | 340MH/s |
 | handshake(blake2b + sha3) | 2060 | 185MH/s |
 | handshake(blake2b + sha3) | RX 580 | 64MH/s |
+| handshake(blake2b + sha3) | Tesla T4 | 210MH/s |
 | handshake(blake2b + sha3) | P100 | 93MH/s |
 
 
