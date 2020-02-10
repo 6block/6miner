@@ -30,6 +30,7 @@
       --devices=0,1,2       list of GPU devices to use. (default: all)
       --temperature-limit=N limit maximun temperature of GPU. (default: 90)
       --opcl-vendor=VENDOR  vendor name for OpenCL mode. (default: AMD, options: AMD NVIDIA Intel).
+      --opcl-no-cuda-fix    disable lower cpu usage for OpenCL mode using Nvidia cards.
       --threads=N           count of CPU threads for CPU mode.
   -h, --help                display this help and exit
   -V, --version             output version information and exit
