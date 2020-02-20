@@ -12,12 +12,14 @@
 ## Reference performances
 | algorithm | card | hashrate | 
 | --- | --- | --- |
-| handshake(blake2b + sha3) | 2080 Ti | 460MH/s |
-| handshake(blake2b + sha3) | 1080 Ti | 350MH/s |
+| handshake(blake2b + sha3) | RX 470 | 115MH/s |
+| handshake(blake2b + sha3) | RX 570 | 125MH/s |
+| handshake(blake2b + sha3) | RX 580 | 165MH/s |
 | handshake(blake2b + sha3) | 2060 | 185MH/s |
-| handshake(blake2b + sha3) | RX 580 | 64MH/s |
-| handshake(blake2b + sha3) | Tesla T4 | 220MH/s |
-| handshake(blake2b + sha3) | P100 | 100MH/s |
+| handshake(blake2b + sha3) | P100 | 260MH/s |
+| handshake(blake2b + sha3) | 1080 Ti | 350MH/s |
+| handshake(blake2b + sha3) | 2080 Ti | 500MH/s |
+
 
 
 ## Command line options
