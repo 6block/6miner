@@ -15,17 +15,20 @@
 | handshake(blake2b + sha3) | AMD    | RX 470     | 145MH/s  |
 | handshake(blake2b + sha3) | AMD    | RX 570     | 150MH/s  |
 | handshake(blake2b + sha3) | AMD    | RX 580     | 165MH/s  |
+| handshake(blake2b + sha3) | AMD    | Vega56     | 282MH/s  |
 | handshake(blake2b + sha3) | AMD    | 5700       | 200MH/s  |
 | handshake(blake2b + sha3) | AMD    | 5700xt     | 254MH/s  |
-| handshake(blake2b + sha3) | AMD    | Radeon Vii | 290MH/s  |
+| handshake(blake2b + sha3) | AMD    | Radeon Vii | 360MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 2060       | 200MH/s  |
 | handshake(blake2b + sha3) | Nvidia | P100       | 260MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 1080 Ti    | 350MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 1660ti     | 257MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 1660       | 194Mh/S  |
 | handshake(blake2b + sha3) | Nvidia | 1070ti     | 270MH/s  |
+| handshake(blake2b + sha3) | Nvidia | 2070Super  | 350MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 2080 Ti    | 500MH/s  |
 | handshake(blake2b + sha3) | Nvidia | 2080       | 402Mh/s  |
+| handshake(blake2b + sha3) | Nvidia | 2080Super  | 440Mh/s  |
 
 
 
